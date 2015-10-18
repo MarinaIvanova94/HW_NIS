@@ -1,5 +1,4 @@
 __author__ = 'Nikola Karpov'
-from lxml.etree import  ElementTree as et
 from lxml import etree
 
 tree=etree.parse('HW_NIS/NIS_HW1_Bazanova.xml')
