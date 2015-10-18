@@ -1,3 +1,4 @@
+# Оценки за практические работы
 Name;	XML 23.09;	EditXML 7.10;	Замечание
 Adzhigitova_Yulia;	9;	8; ветку "patch-1" объеденить с основной. Редактировать исходный xml ../Skuchilina_Svetlana/skuchilina_svetlana.xml
 Bardina;	9;	0;
@@ -7,7 +8,7 @@ Dmitrieva; 	9;	9;
 Kozlova_Anastasia	9;	9;
 Morina;	9;	0;
 Porotikova_Yana;	9;	9; Удалить свои файлы из корневой папки
-Pukhova;	9;	0;
+Pukhova;	7;	0;
 Roshchina;	9;	9;
 Sadov Mikhail;	9;	9;	Удалить свои файлы из корневой папки
 Shabalina_Tanya;	9;	9;

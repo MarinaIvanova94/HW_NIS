@@ -1,116 +1,22 @@
-# HW_NIS
-Домашняя работа по предмету НИС.
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE list>
-<list name="Лучшие книги">
-   <book number="1">
-   <title>
-      Божественная комедия
-   </title>
-   <feature>
-      <author>Данте Алигьери</author>
-      <year>1265-1321</year>
-      <country>Италия</country>
-      <language>Итальянский</language>
-   </feature>
-   </book>
-   <book number="2">
-   <title>
-      Сказки
-   </title>
-   <feature>
-      <author>Ханс Кристиан Андерсен</author>
-      <year>1835—1837</year>
-      <country>Дания</country>
-      <language>Датский</language>
-   </feature>
-   </book>
-  <book number="3">
-   <title>
-      И пришло разрушение
-   </title>
-   <feature>
-      <author>Чинуа Ачебе</author>
-      <year>1958</year>
-      <country>Нигерия</country>
-      <language>Английский</language>
-   </feature>
-   </book>
-   <book number="4">
-   <title>
-      Отец Горио
-   </title>
-   <feature>
-      <author>Оноре де Бальзак</author>
-      <year>1835</year>
-      <country>Франция</country>
-      <language>Французский</language>
-   </feature>
-   </book>
-   <book number="5">
-   <title>
-      Декамерон
-   </title>
-   <feature>
-      <author>Джованни Боккаччо</author>
-      <year>1349—1353</year>
-      <country>Италия</country>
-      <language>Итальянский</language>
-   </feature>
-   </book>
-   <book number="6">
-   <title>
-      Вымыслы
-   </title>
-   <feature>
-      <author>Хорхе Луис Борхес</author>
-      <year>1944—1986</year>
-      <country>Аргентина</country>
-      <language>Испанский</language>
-   </feature>
-   </book>
-   <book number="7">
-   <title>
-      Грозовой перевал
-   </title>
-   <feature>
-      <author>Эмили Бронте</author>
-      <year>1847</year>
-      <country>Великобритания</country>
-      <language>Английский</language>
-   </feature>
-   </book>
-   <book number="8">
-   <title>
-      На маяк
-   </title>
-   <feature>
-      <author>Вирджиния Вулф</author>
-      <year>1927</year>
-      <country>Великобритания</country>
-      <language>Английский</language>
-   </feature>
-   </book>
-   <book number="9">
-   <title>
-      Голод
-   </title>
-   <feature>
-      <author>Кнут Гамсун</author>
-      <year>1890</year>
-      <country>Норвегия</country>
-      <language>Норвежский</language>
-   </feature>
-   </book>
-   <book number="10">
-   <title>
-      Сто лет одиночества
-   </title>
-   <feature>
-      <author>Габриэль Гарсиа Маркес</author>
-      <year>1967</year>
-      <country>Колумбия</country>
-      <language>Испанский</language>
-   </feature>
-   </book>
-</list>
+# Оценки за практические работы
+Name;	XML 23.09;	EditXML 7.10;	Замечание
+Adzhigitova_Yulia;	9;	8; ветку "patch-1" объеденить с основной. Редактировать исходный xml ../Skuchilina_Svetlana/skuchilina_svetlana.xml
+Bardina;	9;	0;
+Bazanova_Lyubov;	9;	8; Редактировать исходный xml
+Blinova;	9;	0;
+Dmitrieva; 	9;	9;
+Kozlova_Anastasia	9;	9;
+Morina;	9;	0;
+Porotikova_Yana;	9;	9; Удалить свои файлы из корневой папки
+Pukhova;	7;	0;
+Roshchina;	9;	9;
+Sadov Mikhail;	9;	9;	Удалить свои файлы из корневой папки
+Shabalina_Tanya;	9;	9;
+Shantyreva;	9;	0;
+Skuchilina_Svetlana;	9;	8;	Редактировать исходный xml
+Sushcheva;	9;	0;
+Tsyplyaeva_Alisa;	9;	9;
+Usenko;	9;	0;
+Vanina_Natalia;	9;	6;	Исправить кодировку в новом xml, Редактировать исходный xml, переместить NVanina(Chernyshev2).py в нужную папку
+Zaplatkina_Irina;	9;	9;
+Zoteeva;	9;	2;	Удалить свои файлы из корневой папки
