@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe>
+<recipe>
+<recipe cuisine="American" name="IceCream" prepare time="5min" cooktime="180min">
+<title>
+Ice Cream Sandae
+</title>
+<composition>
+<ingredient amount="3" unit="glass">Cream</ingredient>
+<ingredient amount="1" unit="glass">Sugar</ingredient>
+<ingredient amount="2" unit="glass">Milk</ingredient> 
+</composition>
+<instruction>
+<step>
+Mix everything
+</step>
+<step>
+Put it into fridge
+</step>
+<step>
+Wait for 3 hours
+</step>
+</instruction>
+</recipe>
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe>
+<recipe>
+<recipe cuisine="American" name="BLTSandwich" prepare time="10min" cooktime="3min">
+<title>
+BLT Sandwich
+</title>
+<composition>
+<ingredient amount="2" unit="slice">Bread</ingredient>
+<ingredient amount="8" unit="slice">Bacon</ingredient>
+<ingredient amount="2" unit="leaf">Lattuce</ingredient>
+<ingredient amount="" unit="">Tomato</ingredient>
+</composition>
+<instruction>
+<step>
+Take the bread
+</step>
+<step>
+Put your bacon on it
+</step>
+<step>
+Put your lattuce on it
+</step>
+<step>
+Put your tomato on it
+</step>
+<step>
+Put your stuff into a microvawe
+</step>
+<step>
+Wait for 3 min
+</step>
+</instruction>
+</recipe>
+
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<recipe cuisine="NotSpecified" name="Tea" prepare time="5min" cooktime="10min">
+<title>
+Tea
+</title>
+<composition>
+<ingredient amount="250" unit="ml">Water</ingredient>
+<ingredient amount="1" unit="spoon">Tea</ingredient>
+<ingredient amount="2" unit="slice">Lemon</ingredient> 
+</composition>
+<instruction>
+<step>
+Boil the water
+</step>
+<step>
+Put the tea in the water
+</step>
+<step>
+Wait for 5 min
+</step>
+</instruction>
+</recipe>
+
+<?xml version="1.0" encoding="utf-8"?>
+<recip
+<recipe cuisine="American" name="Cookie" prepare time="5min" cooktime="20min">
+<title>
+Sweet Cookie
+</title>
+<composition>
+<ingredient amount="250" unit="g">Flour</ingredient>
+<ingredient amount="0.5" unit="glass">Milk</ingredient>
+<ingredient amount="2" unit="spoon">Shugar</ingredient> 
+<ingredient amount="2" unit="piece">Egg</ingredient>
+</composition>
+<instruction>
+<step>
+Mix everything together
+</step>
+<step>
+Put this into an oven
+</step>
+<step>
+Wait for 20 min
+</step>
+</instruction>
+
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<recipe cuisine="Russian" name="Borsch" prepare time="20min" cooktime="40min">
+<title>
+Russian Borsch
+</title>
+<composition>
+<ingredient amount="2" unit="l">Water</ingredient>
+<ingredient amount="250" unit="g">cabbage</ingredient>
+<ingredient amount="1" unit="piece">Beet</ingredient> 
+<ingredient amount="6" unit="piece">Meet</ingredient>
+<ingredient amount="5" unit="piece">Potato</ingredient>
+<ingredient amount="1" unit="spoon">Salt</ingredient>
+</composition>
+<instruction>
+<step>
+Boil the meat
+</step>
+<step>
+Cut the veggies
+</step>
+<step>
+Put the veggies to the meat
+</step>
+<step>
+Wait for 20 min
+</step>
+</instruction>
+</recipe>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<recipe cuisine="Greman" name="ApfelStrudel" prepare time="20min" cooktime="40min">
+<title>
+Apfel Strudel
+</title>
+<composition>
+<ingredient amount="2" unit="glass">Milk</ingredient>
+<ingredient amount="250" unit="g">Flour</ingredient>
+<ingredient amount="2" unit="piece">Egg</ingredient> 
+<ingredient amount="0.5" unit="glass">Shugar</ingredient>
+<ingredient amount="12" unit="piece">Apple</ingredient>
+<ingredient amount="1" unit="spoon">Salt</ingredient>
+</composition>
+<instruction>
+<step>
+Mix everything together
+</step>
+<step>
+Cut the apples
+</step>
+<step>
+Put the apples to the mix
+</step>
+<step>
+Put it into a oven for 40 min
+</step>
+</instruction>
+
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<recipe cuisine="Russian" name="FriedPotato" prepare time="20min" cooktime="40min">
+<title>
+Fried Potato
+</title>
+<composition>
+<ingredient amount="1" unit="kg">Potato</ingredient>
+<ingredient amount="20" unit="ml">Oil</ingredient>
+<ingredient amount="1" unit="spoon">Salt</ingredient>
+</composition>
+<instruction>
+<step>
+Cut the veggies
+</step>
+<step>
+Put them into a frying pan
+</step>
+<step>
+Cook for 15 min
+</step>
+<step>
+Put the salt
+</step>
+<step>
+Cook for 5 min
+</step>
+</instruction>
+</recipe>
+
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<recipe cuisine="Russian" name="Pncakes" prepare time="20min" cooktime="40min">
+<title>
+Pancakes
+</title>
+<composition>
+<ingredient amount="250" unit="glass">Flour</ingredient>
+<ingredient amount="20" unit="ml">Oil</ingredient>
+<ingredient amount="1" unit="piece">egg</ingredient>
+<ingredient amount="2" unit="spoon">Shugar</ingredient>
+<ingredient amount="1" unit="spoon">Salt</ingredient>
+</composition>
+<instruction>
+<step>
+Mix everything together
+</step>
+<step>
+Pour some oil on a pan
+</step>
+<step>
+Pour some small amount of mix on the pan
+</step>
+<step>
+Cook for 1 min for each side
+</step>
+
+<?xml version="1.0" encoding="utf-8"?>
+<recipe>
+<recipe cuisine="American" name="GrilledCheese" prepare time="5min" cooktime="5min">
+<title>
+Grilled Cheese
+</title>
+<composition>
+<ingredient amount="4" unit="slice">Bread</ingredient>
+<ingredient amount="20" unit="ml">Oil</ingredient>
+<ingredient amount="200" unit="g">Cheese</ingredient>
+</composition>
+<instruction>
+<step>
+To great the cheese
+</step>
+<step>
+Put the cheese on bread
+</step>
+<step>
+Add some oil on a pan
+</step>
+<step>
+Cook for 5 min
+</step>
