@@ -1,5 +1,3 @@
-__author__ = 'Сергей'
-
 from lxml import etree
 tree = etree.parse('Kate_Delyagina.xml')
 root1 = tree.getroot()
