@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 import lxml.html as html
 tag=[]
 url_list=[]
