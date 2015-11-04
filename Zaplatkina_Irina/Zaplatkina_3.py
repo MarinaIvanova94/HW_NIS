@@ -1,5 +1,5 @@
 import lxml.html as html
-
+#извлекаем ссылки на видео с сайта
 page = html.parse('http://www.planetaexcel.ru/video/')
 root = page.getroot()
 tag = root.find_class('s2u-yt-grid-collection').pop()
