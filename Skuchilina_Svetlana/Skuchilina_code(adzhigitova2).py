@@ -1,5 +1,5 @@
 from lxml import etree
-f = open('E:/HW_NIS/Adzhigitova_Yulia/Adzhigitova.xml')
+f = open('E:\HW_NIS\Adzhigitova_Yulia\Adzhigitova.xml')
 tree = etree.parse(f)
 root = tree.getroot()
 for element in root.iter('actor'):
@@ -12,7 +12,7 @@ for element in root.iter('actor'):
         element.set('country',mylist[2])
     
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
-f1 = open('E:/HW_NIS/Skuchilina_Svetlana/Skuchilina(adzhigitova2).xml', 'w')
+f1 = open('E:\HW_NIS\Skuchilina_Svetlana\Skuchilina(adzhigitova2).xml', 'w')
 f1.write(output)
 print(output)
 f1.close()
