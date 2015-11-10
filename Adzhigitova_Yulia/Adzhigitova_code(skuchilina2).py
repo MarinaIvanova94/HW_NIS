@@ -1,5 +1,5 @@
 from lxml import etree
-f = open('skuchilina_svetlana.xml')
+f = open('D:/учеба/NIS/skuchilina_svetlana.xml')
 tree = etree.parse(f)
 root = tree.getroot()
 for element in root.iter('film'):
