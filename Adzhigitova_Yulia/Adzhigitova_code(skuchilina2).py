@@ -12,7 +12,7 @@ for element in root.iter('actor'):
     #element.set('last_name',mylist[1])
     
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
-f1 = open('skuchilina_svetlana1.xml', 'w')
+f1 = open('D:/учеба/NIS/Adzhigitova_Yulia/Adzhigitova(skuchilina2).xml', 'w')
 f1.write(output)
 print(output)
 f1.close()
