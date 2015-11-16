@@ -8,7 +8,6 @@ Created on Sun Nov 15 00:10:39 2015
 # extracting links and plot summaries of Disney movies
 
 import lxml.html as html
-import pickle
 
 page = html.parse('http://www.movieinsider.com/c2/walt-disney-pictures/')
 root = page.getroot()
@@ -16,20 +15,18 @@ tag = root.find_class("phase5")
 
 url_list = []
 
-f = open('output_links.txt', 'w')
+
 for i in tag:    
     for j in i.iterlinks():
         if (('movies' not in j[2]) and ('page_offset' not in j[2]) 
         and ('status' not in j[2]) and ('videos' not in j[2])):
             url_list.append(j[2])
-            f.write(j[2] + '\n')
-f.close()
+
 
 
 annonce_list = []
 title_list = []
 year_list = []
-duration_list = []
 
 for url in url_list:
     page1 = html.parse(url)
@@ -39,9 +36,9 @@ for url in url_list:
     tag3 = root1.xpath('/html/body/div[3]/div/div/div[1]/div[2]/div/div[2]/span[1]').pop()
 
 
-    annonce_list.append(tag1.text_content()) # + '\n')
-    title_list.append(tag2.text_content()) # + '\n')
-    year_list.append(tag3.text_content()) # + '\n')
+    annonce_list.append(tag1.text_content()) 
+    title_list.append(tag2.text_content()) 
+    year_list.append(tag3.text_content()) 
 
 
 f = open('output_Disney.txt', 'w')    
@@ -57,9 +54,5 @@ for i in range(len(url_list)):
         continue
 f.close()
 
-    
-# print(len(annonce_list))
-# print(len(title_list))
-# print(len(year_list))
 
 

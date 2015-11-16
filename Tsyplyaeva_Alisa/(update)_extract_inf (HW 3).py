@@ -10,9 +10,9 @@ url_list = []
 
 for i in tag:    
     for j in i.iterlinks():
-        if ('movies' not in j[2]) and ('page_offset' not in j[2]):
+        if (('movies' not in j[2]) and ('page_offset' not in j[2]) 
+        and ('status' not in j[2]) and ('videos' not in j[2])):
             url_list.append(j[2])
-print(url_list)
 
 
 annonce_list = []
