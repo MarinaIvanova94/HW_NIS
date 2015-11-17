@@ -33,7 +33,7 @@ for i, w in enumerate(num_of_pages):
         child3 = etree.SubElement(child, "list_of_tags").text = taglists[i]
 
 
-xml = etree.tostring(root, pretty_print=True)
+xml = etree.tostring(root, pretty_print=True, encoding='utf-8')
 f = open('nis4_roshchina.xml', 'w')
 f.write(xml.decode('utf-8'))
 f.close()
