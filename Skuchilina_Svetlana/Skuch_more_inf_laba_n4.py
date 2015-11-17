@@ -42,8 +42,15 @@ for ind, url in enumerate(url_list):
 #    print(url_list[i] + '\n' + title_list[i] + '\n' + u'Рейтинг: ' + rating_list[i] + '\n' + \
 #          #story_list[i] + '\n' +
 #          u'Кадры:\n' + screen_list[i] + '\n')
+import pickle
+f=open('output.pickle', 'wb')
+pickle.dump('asd', f)
+f.close()
+f=open('output.pickle', 'rb')
+top_words=pickle.load(f)
+f.close()
 
-from xml.etree.ElementTree import Element, SubElement, Comment, ElementTree
+from lxml.etree import Element, SubElement, Comment, ElementTree
 from lxml import etree
 films = Element('films')
 for i in range(0, len(url_list)):
@@ -53,13 +60,8 @@ for i in range(0, len(url_list)):
     screens = SubElement(film, 'screens')
     for y in screen_list[i].split():
         screen = SubElement(screens, 'screen', href = y)
-tree = ElementTree(films)
-tree.write("E:\HW_NIS\Skuchilina_Svetlana\skuch_more_inf_lba_n4.xml", encoding='UTF-8')
-f = open("E:\HW_NIS\Skuchilina_Svetlana\skuch_more_inf_lba_n4.xml", 'r')
-tree = etree.parse(f)
-root = tree.getroot()
-output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
+output = etree.tostring(films, pretty_print=True, encoding='UTF-8')
 f.close()
-f = open('E:\HW_NIS\Skuchilina_Svetlana\skuch_more_inf_lba_n4.xml', 'w')
+f = open('E:\HW_NIS\Skuchilina_Svetlana\skuch_more_inf_lba_n4.xml', 'wb')
 f.write(output)
 f.close()
