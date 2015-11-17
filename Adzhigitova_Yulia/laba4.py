@@ -6,7 +6,7 @@ url_list=[]
 an_news_list=[]
 newsTags_list = []
 news_title_list = []
-for i in range(1,10):
+for i in range(1,67):
     root = html.parse('http://www.kinopoisk.ru/news/perpage/200/page/{0}/'.format(i)).getroot()
     tag.extend(root.find_class('item'))
 for i in tag:
