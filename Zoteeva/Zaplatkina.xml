@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe>
+<recipe name="Простые рецепты">
+   <title1>
+      Блины на молоке
+   </title1>
+   <composition>
+      <ingredient amount="1" unit="литр">Молоко</ingredient>
+      <ingredient amount="2" unit="штуки">Яйца</ingredient>
+      <ingredient amount="2" unit="столовые ложки">Сахар</ingredient>
+      <ingredient amount="0,25" unit="чайной ложки">Соль</ingredient>
+	  <ingredient amount="3-4" unit="столовая ложка">Растительное масло</ingredient>
+	  <ingredient amount="0,25" unit="чайной ложки">Сода</ingredient>
+	  <ingredient amount="280" unit="грамм">Мука</ingredient>
+   </composition>
+   <instructions>
+     <step>
+        В кастрюлю налить 1 литр молока, поставить ее на плиту на маленький огонь. 
+     </step>
+     <step>
+        Пока молоко греется разбить в небольшую емкость 2 яйца, добавить 2 ст.л. сахара, соль на кончике ч.л. и всё перемешать. 
+     </step>
+     <step>
+        В емкость к яйцам добавить 2-3 ст.л. растительного масла и снова хорошенько перемешать.
+     </step>
+	 <step>
+		Из кастрюли взять стакан теплого молока и добавить его в емкость, также добавить соду на кончике ч.л. и всё перемешать.
+	 </step>
+	 <step>
+        Просеять муку через маленькое ситечко в емкость к яичной смеси и перемешать.
+     </step>
+	 <step>
+        Получившуюся смесь добавить в оставшееся в кастрюле молоко и перемешать.
+     </step>
+	 <step>
+        Оставить тесто на 15-30 мин. при комнатной температуре и потом ещё раз перемешать.
+     </step>
+   </instructions>
+   <title2>
+      Кекс на сметане
+   </title2>
+   <composition>
+      <ingredient amount="200" unit="грамм">Сливочное масло</ingredient>
+      <ingredient amount="200" unit="грамм">Сметана</ingredient>
+	  <ingredient amount="1" unit="стакан">Сахар</ingredient>
+	  <ingredient amount="2" unit="штуки">Яйцо</ingredient>
+	  <ingredient amount="0,5" unit="чайной ложки">Гашеная сода</ingredient>
+	  <ingredient amount="0,25" unit="чайной ложки">Соль</ingredient>
+	  <ingredient amount="2" unit="стакана">Мука</ingredient>
+	  <ingredient amount="2" unit="штуки">Яблоко</ingredient>
+   </composition>
+   <instructions>
+     <step>
+     Взбиваем сахар с яйцами, добавляем размягченное сливочное масло.
+     </step>
+     <step>
+     Добавляем сметану.
+     </step>
+     <step>
+     Кладем соду, гашеную уксусом. Взбиваем еще раз.
+     </step>
+	 <step>
+     Добавьте муку, при помощи миксера замесите густое тесто.
+     </step>
+	 <step>
+     Кладем в тесто мякоть тертых яблок. Аккуратно перемешивае
+     </step>
+	 <step>
+     Положите тесто в форму для выпечки. Выпекайте в духовке 45-50 минут, температура - 180 градусов.
+     </step>
+   </instructions>
+   <title3>
+      Салат оливье
+   </title3>
+   <composition>
+      <ingredient amount="400" unit="грамм">Вареная колбаса</ingredient>
+      <ingredient amount="1" unit="банка">Зеленый горох</ingredient>
+	  <ingredient amount="5" unit="штук">Яйца</ingredient>
+	  <ingredient amount="2" unit="штуки">Морковь</ingredient>
+	  <ingredient amount="3" unit="штуки">Картофель</ingredient>
+	  <ingredient amount="4" unit="штуки">Огурцы</ingredient>
+	  <ingredient amount="100" unit="миллилитров">Майонез</ingredient>
+	  <ingredient amount="2" unit="щипотки">Соль</ingredient>
+   </composition>
+   <instructions>
+     <step>
+     Опустить яйца в кастрюлю с водой и варить в течение 7-10 минут. 
+     </step>
+     <step>
+     Опустить картофель и морковь в слегка подсоленную воду. Варить до готовности (примерно полчаса). 
+     </step>
+     <step>
+     Нарезать колбасу кубиками. 
+     </step>
+	 <step>
+	 Нарезать огурцы кубиками. 
+	 </step>
+	 <step>
+	 Яйца пропустить через яйцерезку. 
+	 </step>
+	 <step>
+	 Добавить в салат зеленый горошек. 
+	 </step>
+	 <step>
+	 Нарезать морковь и картофель кубиками. 
+	 </step>
+	 <step>
+	 Смешать салат с майонезом. При необходимости посолить. 
+	 </step>
+   </instructions>
+   <title4>
+      Классический омлет
+   </title4>
+   <composition>
+      <ingredient amount="5" unit="штук">Яйца</ingredient>
+      <ingredient amount="250" unit="миллилитров">Молоко</ingredient>
+	  <ingredient amount="50" unit="грамм">Масло сливочное</ingredient>
+	  <ingredient amount="0,5" unit="чайной ложки">Соль</ingredient>
+   </composition>
+   <instructions>
+     <step>
+        В глубокую миску вылить молоко.
+     </step>
+     <step>
+        Добавить яйца и соль.
+     </step>
+     <step>
+        Хорошо размешать, не взбивая.
+     </step>
+	 <step>
+	 Форму хорошо смазать сливочным маслом.
+	 </step>
+	 <step>
+	 Перелить полученную яично-молочную смесь в форму. И поставить в предварительно разогретую до 200 градусов духовку на 30 минут.
+	 </step>
+	 <step>
+	 Готовый омлет разрезать на порции. На горячий омлет выложить кусочек сливочного масла.
+	 </step>
+   </instructions>
+   <title5>
+     Овсяное печенье 
+   </title5>
+   <composition>
+      <ingredient amount="115" unit="грамм">Сливочное масло</ingredient>
+      <ingredient amount="50" unit="грамм">Сахар</ingredient>
+      <ingredient amount="1" unit="штука">Яйцо</ingredient>
+      <ingredient amount="1" unit="чайная ложка">Ванильный сахар</ingredient>
+	  <ingredient amount="100" unit="грамм">Мука</ingredient>
+	  <ingredient amount="0,5" unit="чайной ложки">Сода</ingredient>
+	  <ingredient amount="0,5" unit="чайной ложки">Корица</ingredient>
+	  <ingredient amount="1" unit="щепотка">Соль</ingredient>
+	  <ingredient amount="150" unit="грамм">Овсяные хлопья</ingredient>
+	  <ingredient amount="0,5" unit="стакана">Изюм</ingredient>
+   </composition>
+   <instructions>
+     <step>
+        Взбить масло с сахаром и ванильным сахаром.
+     </step>
+     <step>
+        Добавить яйцо, взбить.
+     </step>
+     <step>
+        Добавить смешанные заранее муку, соду, корицу и соль. Хорошо перемешать.
+     </step>
+	 <step>
+		Затем добавить овес и изюм и еще раз тщательно перемешать. 
+	 </step>
+	 <step>
+        Выкладывать руками шарики на противень на расстоянии около 4-5 см, немного приплюснуть сверху. Печь 10 - 12 минут или до золотистого цвета.
+     </step>
+   </instructions>
+    <title6>
+     Плов 
+   </title6>
+   <composition>
+      <ingredient amount="600" unit="грамм">Рис</ingredient>
+      <ingredient amount="5" unit="головок">Лук</ingredient>
+      <ingredient amount="5" unit="кусков">Куриное филе</ingredient>
+      <ingredient amount="6" unit="штук">Морковь</ingredient>
+	  <ingredient amount="1" unit="столовая ложка">Соль</ingredient>
+	  <ingredient amount="0,5" unit="столовой ложки">Перец</ingredient>
+   </composition>
+   <instructions>
+     <step>
+        Тщательно и многократно под горячей водой промываем весь рис. 
+     </step>
+     <step>
+        Берем наш казан, заливаем туда растительного масла на толщину указательного пальца (примерно 1 см от дна), ставим на средний огонь, чтоб масло нагрелось для третьего пункта.
+     </step>
+     <step>
+        Режем филе на кубики со стороной от 0,5 до 1 см.
+     </step>
+	 <step>
+		Когда масло нагрелось, а филе нарезано, поэтому мы смело все мясо выгружаем в казан. 
+	 </step>
+	 <step>
+        Пока мясо тушится в казане, стоит чистить и резать лук. Лук режем мелкими кубиками со стороной примерно по 3 мм или больше.
+     </step>
+	 <step>
+		Засыпаем лук в казан, перемешиваем с мясом и обжариваем до тех пора, пока он не станет золотистым. 
+	 </step>
+	 <step>
+		Чистим, моем и натираем морковь на большой терке. Вываливаем всю натертую морковь в казан и перемешиваем с тем, что там уже было. 
+	 </step>
+	 <step>
+		Разровняйте мясо в казане. Слейте воду из миски с рисом. Положите рис на мясо и тоже разровняйте. 
+	 </step>
+	 <step>
+		Теперь аккуратно, чтобы не нарушить рисовый слой, заливаем только что вскипевшую воду. Воды должно быть на два пальца над поверхностью риса (примерно 2 см). 
+	 </step>
+   </instructions>
+   <title7>
+      Классическая шарлотка
+   </title7>
+   <composition>
+      <ingredient amount="1" unit="стакан">Сахар</ingredient>
+      <ingredient amount="5" unit="штук">Яйца</ingredient>
+      <ingredient amount="1" unit="стакан">Мука</ingredient>
+      <ingredient amount="7" unit="штук">Яблоки</ingredient>
+	  <ingredient amount="1" unit="столовая ложка">Масло</ingredient>
+	  <ingredient amount="0,5" unit="чайной ложки">Сода</ingredient>
+   </composition>
+   <instructions>
+     <step>
+        Разогреть духовку. Отделить белки от желтков. Белки взбить в крепкую пену, постепенно добавляя сахар. 
+     </step>
+     <step>
+        Продолжать взбивать, добавляя по одному желтки, затем гашеную соду и муку. Тесто по консистенции должно напоминать сметану. 
+     </step>
+     <step>
+        Смазать противень растительным маслом. Вылить половину теста на противень, разложить равномерно нарезанные дольками яблоки, залить второй половиной теста.
+     </step>
+	 <step>
+	 Поместить противень в разогретую духовку. 3 минуты подержать на максимальной температуре, затем убавить до средней и выпекать 20-25 минут.
+   </step>
+   </instructions>
+   <title8>
+      Сырники из творога
+   </title8>
+   <composition>
+      <ingredient amount="350" unit="грамм">Творог</ingredient>
+      <ingredient amount="2" unit="штуки">Яйца</ingredient>
+      <ingredient amount="6" unit="столовых ложек">Мука</ingredient>
+      <ingredient amount="2" unit="столовые ложки">Сахар</ingredient>
+	  <ingredient amount="5" unit="столовых ложек">Подсолнечное масло</ingredient>
+   </composition>
+   <instructions>
+     <step>
+        Положите весь творог в кастрюльку и разомните его вилкой так, чтобы в нем не осталось крупных комков. Разбейте в него яйца, всыпьте сахар и тщательно все перемешайте. 
+     </step>
+     <step>
+        Всыпьте в творог 5 столовых ложек (с горкой) муки и тщательно перемешайте.
+     </step>
+     <step>
+        Поставьте сковороду на средний огонь и налейте в нее подсолнечное масло.
+     </step>
+	 <step>
+		Насыпьте на тарелку немного муки. Затем по очереди обкатывайте творожные шарики в муке, плющите их в небольшие лепешки и выкладывайте на сковороду.
+	 </step>
+	 <step>
+        Обжаривайте сырники 1–2 минуты до появления золотистой корочки. Затем переверните их на другую сторону и также обжарьте до золотистого состояния.
+     </step>
+   </instructions>
+   <title9>
+      Винегрет овощной
+   </title9>
+   <composition>
+      <ingredient amount="5" unit="штук">Картофель</ingredient>
+      <ingredient amount="1" unit="штука">Свекла</ingredient>
+	  <ingredient amount="2" unit="штуки">Огурцы</ingredient>
+	  <ingredient amount="1" unit="штука">Морковь</ingredient>
+	  <ingredient amount="1" unit="штука">Яблоко</ingredient>
+	  <ingredient amount="50" unit="грамм">Зеленый лук</ingredient>
+	  <ingredient amount="100" unit="грамм">Квашеная капуста</ingredient>
+	  <ingredient amount="0,25" unit="стакана">Уксус</ingredient>
+	  <ingredient amount="3" unit="столовые ложки">Растительное масло</ingredient>
+	  <ingredient amount="1" unit="чайная ложка">Горчица</ingredient>
+   </composition>
+   <instructions>
+     <step>
+     Вареный картофель, яблоки, огурцы, морковь очистить, нарезать ломтиками, сложить в миску, прибавить квашеную капусту.
+     </step>
+     <step>
+     Горчицу, соль, перец растереть с маслом и развести уксусом.
+     </step>
+     <step>
+     Овощи смешать с приготовленным соусом, уложить в салатник, украсить ломтиками свеклы, посыпать зеленым луком. 
+     </step>
+   </instructions>
+   <title10>
+      Творожная запеканка
+   </title10>
+   <composition>
+      <ingredient amount="1" unit="килограмм">Творог</ingredient>
+      <ingredient amount="0,5" unit="стакана">Крупа манная</ingredient>
+	  <ingredient amount="2" unit="штуки">Яйцо</ingredient>
+	  <ingredient amount="0,7" unit="стакана">Сахар</ingredient>
+	  <ingredient amount="0,5" unit="стакана">Сметана</ingredient>
+	  <ingredient amount="0,5" unit="стакана">Молоко</ingredient>
+	  <ingredient amount="100" unit="грамм">Изюм</ingredient>
+	  <ingredient amount="1" unit="чайная ложка">Ванилин</ingredient>
+	  <ingredient amount="0,25" unit="чайная ложка">Соль</ingredient>
+	  <ingredient amount="50" unit="грамм">Сливочное масло</ingredient>
+   </composition>
+   <instructions>
+     <step>
+     Манку предварительно залить молоком, дать постоять. Замочить изюм, дать набухнуть.
+     </step>
+     <step>
+     Яйца размешать с сахаром. В творог добавить щепотку соли, манку, яйца с сахаром, ванилин, изюм, сметану.
+     </step>
+     <step>
+     Выложить в форму, смазанную маслом и посыпанную манкой или мукой, разровнять. Сверху смазать яйцом или сметаной.
+     </step>
+	 <step>
+     Выпекать в разогретой духовке минут 50-60 при 180 градусах.
+     </step>
+   </instructions>
+</recipe>
