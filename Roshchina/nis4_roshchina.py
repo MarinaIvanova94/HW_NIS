@@ -2,6 +2,7 @@
 from lxml.html import parse
 from lxml import etree
 
+"""Создание XML на основе данных, извлеченных с сайта www.qwrt.ru"""
 pages = []
 u = parse('http://www.qwrt.ru/').getroot()
 
@@ -34,6 +35,16 @@ for i, w in enumerate(num_of_pages):
 
 
 xml = etree.tostring(root, pretty_print=True, encoding='utf-8')
-f = open('nis4_roshchina.xml', 'w')
-f.write(xml.decode('utf-8'))
+f = open('nis4_roshchina2.xml', 'wb')
+f.write(xml)
 f.close()
+
+"""Работа с XML - извлечение данных """
+tree = etree.parse('nis4_roshchina2.xml')
+root = tree.getroot()
+
+for element in root.iter('title'):
+    print(element.text)
+
+for element in root.iter('article'):
+    print(element.attrib)
