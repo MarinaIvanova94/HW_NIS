@@ -1,0 +1,379 @@
+<furniture_list>
+<furniture name="шкаф" termofprod="5 days">
+   <title>
+      Шкаф подвесной
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="1200мм" width="272мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Дно</part>
+			<part material="ЛДСП" length="1196мм" width="296мм" amount="2" quality="good">Фасад</part>
+			<part material="ХДФ" length="1196мм" width="596мм" amount="1" quality="good">Задняя стенка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="3" quality="good">Полка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="4">Петли</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="2">Ручка</item>
+			<item amount="4">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов
+     </step>
+     <step>
+		Закрепить гвоздями заднюю стенку 
+     </step>
+     <step>
+		Навесить фасады, используя петли и саморезы
+     </step>
+	 <step>
+		Прикрепить ручки винтами
+     </step>
+	 <step>
+		Вставить полки
+	 </step>
+	 <step>
+		Полюбоваться готовым шкафом
+	 </step>
+   </instructions>
+</furniture>
+<furniture name="шкаф" termofprod="6 days">
+   <title>
+      Шкаф-гардероб
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="7834мм" width="672мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="512мм" width="468мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="512мм" width="468мм" amount="1" quality="good">Дно</part>
+			<part material="ЛДСП" length="6324мм" width="678мм" amount="2" quality="good">Фасад</part>
+			<part material="ХДФ" length="7834мм" width="596мм" amount="1" quality="good">Задняя стенка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="5" quality="good">Полка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="4">Петли</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="2">Ручка</item>
+			<item amount="4">Винт</item>
+			<item amount="2">Штанга</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов	
+     </step>
+     <step>
+		Закрепить гвоздями заднюю стенку 	
+     </step>
+     <step>
+		Навесить фасады, используя петли и саморезы	
+     </step>
+	 <step>
+		Прикрепить ручки винтами	
+     </step>
+	 <step>
+		Вставить полки и штанги
+	 </step>
+   </instructions>
+</furniture>
+<furniture name="шкаф" termofprod="9 days">
+   <title>
+      Буфет
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="2200мм" width="562мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="657мм" width="342мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="657мм" width="342мм" amount="1" quality="good">Дно</part>
+			<part material="Стекло" length="1196мм" width="296мм" amount="2" quality="good">Фасад</part>
+			<part material="ЛДСП" length="1196мм" width="296мм" amount="1" quality="good">Фасад</part>
+			<part material="ХДФ" length="2200мм" width="568мм" amount="1" quality="good">Задняя стенка</part>
+			<part material="Стекло" length="564мм" width="268мм" amount="3" quality="good">Полка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="4" quality="good">Полка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="6">Петли</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="3">Ручка</item>
+			<item amount="4">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов
+     </step>
+     <step>
+		Закрепить гвоздями заднюю стенку 
+     </step>
+     <step>
+		Навесить фасады, используя петли и саморезы
+     </step>
+	 <step>
+		Прикрепить ручки винтами
+     </step>
+	 <step>
+		Вставить полки
+	 </step>
+   </instructions>
+</furniture>
+<furniture name="тумба" termofprod="2 days">
+   <title>
+      Тумба прикроватная
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="632мм" width="272мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Дно</part>
+			<part material="ЛДСП" length="342мм" width="146мм" amount="3" quality="good">Ящик</part>
+			<part material="ХДФ" length="632мм" width="596мм" amount="1" quality="good">Задняя стенка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="6">Направляющие</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="3">Ручка</item>
+			<item amount="6">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов
+     </step>
+     <step>
+		Закрепить гвоздями заднюю стенку 
+     </step>
+     <step>
+		Закрепить направляющие
+     </step>
+	 <step>
+		Вставить ящики
+	 </step>
+	 <step>
+		Прикрепить ручки винтами
+	 </step>
+   </instructions>
+</furniture>
+<furniture name="тумба" termofprod="4 days">
+   <title>
+      Тумба для обуви
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="753мм" width="245мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="564мм" width="245мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="564мм" width="245мм" amount="1" quality="good">Дно</part>
+			<part material="ЛДСП" length="753мм" width="245мм" amount="1" quality="good">Фасад</part>
+			<part material="ХДФ" length="753мм" width="596мм" amount="1" quality="good">Задняя стенка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="4" quality="good">Полка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="4">Петли</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="1">Ручка</item>
+			<item amount="1">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов
+     </step>
+     <step>
+		Закрепить гвоздями заднюю стенку 
+     </step>
+     <step>
+		Навесить фасады, используя петли и саморезы
+     </step>
+	 <step>
+		Прикрепить ручку винтом
+     </step>
+	 <step>
+		Вставить полки
+	 </step>
+   </instructions>
+</furniture>
+<furniture name="стол" termofprod="4 days">
+   <title>
+      Журнальный столик
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="634мм" width="321мм" amount="1" quality="good">Столешница</part>
+			<part material="Металл" length="564мм" width="272мм" amount="5" quality="good">Труба</part>
+			<part material="ЛДСП" length="578мм" width="286мм" amount="1" quality="good">Полка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Болт</item>
+			<item amount="4">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Скрепить ножки и держатель полки болтами
+     </step>
+     <step>
+		Закрепить столешницу и полку винтами
+     </step>
+   </instructions>
+</furniture>
+<furniture name="стол" termofprod="2 days">
+   <title>
+      Обеденный стол
+   </title>
+   <composition>
+		<parts>
+
+			<part material="ЛДСП" length="666мм" width="666мм" amount="1" quality="good">Столешница</part>
+			<part material="ЛДСП" length="566мм" width="66мм" amount="4" quality="good">Ножка</part>
+		</parts>
+		<fixings>
+			<item amount="4">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Присоединить ножки к столешнице винтами
+     </step>
+   </instructions>
+</furniture>
+<furniture name="стол" termofprod="2 days">
+   <title>
+      Обеденный стол
+   </title>
+   <composition>
+		<parts>
+
+			<part material="Стекло" length="564мм" width="272мм" amount="1" quality="good">Крышка</part>
+			<part material="Металл" length="1196мм" width="296мм" amount="4" quality="good">Ножка</part>
+		</parts>
+		<fixings>
+			<item amount="4">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Присоединить ножки к столешнице винтами
+     </step>
+   </instructions>
+</furniture>
+<furniture name="стол" termofprod="3 days">
+   <title>
+      Письменный стол
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="1200мм" width="272мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Столешница</part>
+			<part material="ЛДСП" length="1196мм" width="296мм" amount="1" quality="good">Ящик</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="3" quality="good">Полка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="1" quality="good">Полка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="1" quality="good">Фасад</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="4">Петли</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="2">Ручка</item>
+			<item amount="4">Винт</item>
+			<item amount="4">Направляющие</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Соединить боковины со столешницей с помощью евровинтов
+     </step>
+     <step>
+		Закрепить направляющие для ящика и выдвижной полки
+     </step>
+	 <step>
+		Навесить фасад нспользуя петли и саморезы
+     </step>
+     <step>
+		Вставить ящик и полки
+     </step>
+	 <step>
+		Прикрепить ручки винтами
+     </step>
+   </instructions>
+</furniture>
+<furniture name="комод" termofprod="5 days">
+   <title>
+      Комод
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="1200мм" width="272мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Дно</part>
+			<part material="ХДФ" length="1196мм" width="596мм" amount="1" quality="good">Задняя стенка</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="4" quality="good">Ящик</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="16">Саморез</item>
+			<item amount="40">Гвоздь</item>
+			<item amount="8">Ручка</item>
+			<item amount="8">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов
+     </step>
+     <step>
+		Закрепить гвоздями заднюю стенку 
+     </step>
+	 <step>
+		Прикрепить направляющие
+	 </step>
+	 <step>
+		Вставить ящики 
+     </step>
+	 <step>
+		Прикрепить ручки винтами
+	 </step>
+   </instructions>
+</furniture>
+<furniture name="полка" termofprod="3 days">
+   <title>
+      Книжная полка
+   </title>
+   <composition>
+		<parts>
+			<part material="ЛДСП" length="1200мм" width="272мм" amount="2" quality="good">Боковина</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Крышка</part>
+			<part material="ЛДСП" length="564мм" width="272мм" amount="1" quality="good">Дно</part>
+			<part material="ЛДСП" length="564мм" width="268мм" amount="1" quality="good">Полка</part>
+		</parts>
+		<fixings>
+			<item amount="8">Евровинт</item>
+			<item amount="16">Саморез</item>
+			<item amount="4">Винт</item>
+		</fixings>
+   </composition>
+   <instructions>
+     <step>
+		Собрать каркас из боковин, дна и крышки с помощью евровинтов
+     </step>
+     <step>
+		Присоединить крепеж для полки 
+     </step>
+	 <step>
+		Вставить полку
+	 </step>
+   </instructions>
+</furniture>
+</furniture_list>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE car>
+<car name="автомобиль">
+   <title>
+      Газ-3102
+   </title>
+   <numeric_characteristics>
+      <volume amount="2445" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="131" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="173" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        седан 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        независимая 
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+      Ваз-2121
+   </title>
+   <numeric_characteristics>
+      <volume amount="1689" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="81" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="142" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        внедорожник 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        зависимая пружинная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+
+   <title>
+      УАЗ-315196
+   </title>
+   <numeric_characteristics>
+      <volume amount="2693" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="128" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="155" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        внедорожник 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        зависимая рессорная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+      АЗЛК Vladimir 2142R7
+   </title>
+   <numeric_characteristics>
+      <volume amount="1988" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="145" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="187" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        седан 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        пружинная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+      TVR Tuscan
+   </title>
+   <numeric_characteristics>
+      <volume amount="3605" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="355" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="290" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        кабриолет 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        винтовые пружины
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+      Ford Mustang
+   </title>
+   <numeric_characteristics>
+      <volume amount="2264" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="309" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="6" unit="передачи">Трансмиссия</transmission>
+      <speed amount="280" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        купе 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        независимая пружинная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+      Jaguar XJ-S
+   </title>
+   <numeric_characteristics>
+      <volume amount="3590" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="221" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="220" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        купе 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        независимая пружинная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+       Oldsmobile Cutlass
+   </title>
+   <numeric_characteristics>
+      <volume amount="3135" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="152" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="4" unit="передачи">Трансмиссия</transmission>
+      <speed amount="180" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        седан 
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        пружинная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+       Pontiac GTO
+   </title>
+   <numeric_characteristics>
+      <volume amount="5665" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="355" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="6" unit="передачи">Трансмиссия</transmission>
+      <speed amount="255" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        купе
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        винтовая пружинная
+     </suspension>
+   </other_characteristics>
+</car>
+<car name="автомобиль">
+   <title>
+       Kia Spectra
+   </title>
+   <numeric_characteristics>
+      <volume amount="1594" unit="куб. см">Объём двигателя</volume>
+      <horsepower amount="101" unit="лошадиные силы">Мощность</horsepower>
+      <transmission amount="5" unit="передачи">Трансмиссия</transmission>
+      <speed amount="180" unit="км/ч">Скорость</speed>
+   </numeric_characteristics>
+   <other_characteristics>
+     <body>
+        седан
+     </body>
+     <supply>
+        инжектор
+     </supply>
+     <suspension>
+        независимая
+     </suspension>
+   </other_characteristics>
+</car>
