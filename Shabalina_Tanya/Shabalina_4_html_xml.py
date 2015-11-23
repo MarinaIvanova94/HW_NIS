@@ -43,17 +43,17 @@ for url in url_list:
     page1 = html.parse(url)
     root1 = page1.getroot()
     tag1 = root1.find_class('entry-content').pop()
-    article = tag1[0].text_content().strip().encode()
+    article = tag1[0].text_content().strip()#.encode()
     article_list.append(article)
 
 #получаем название статьи
     tag2 = root1.find_class('entry-title').pop()
-    title = tag2.text_content().strip().encode()
+    title = tag2.text_content().strip()#.encode()
     title_list.append(title)
 
 #получаем дату публикации статьи
     tag3 = root1.find_class('entry-date').pop()
-    date = tag3.text_content().strip().encode()
+    date = tag3.text_content().strip()#.encode()
     date_list.append(date)
 
 #получаем для каждой статьи тэг
@@ -61,7 +61,7 @@ for url in url_list:
     t_list = []
     for i in tag4.iterlinks():
         if i[2].find('vsekakuzverei.com/tag/') != -1:
-            tagged = i[0].text_content().encode()
+            tagged = i[0].text_content()#.encode()
             t_list.append(tagged)
     tag_list.append(t_list)
 
@@ -77,15 +77,17 @@ for url in url_list:
 root2 = etree.Element('main')
 for i in entry_list:
     main = etree.SubElement(root2, 'entry')
-    etree.SubElement(main, 'title').text = i[0].decode()
+    etree.SubElement(main, 'title').text = i[0]
     etree.SubElement(main, 'url').text = i[1]
-    etree.SubElement(main, 'article').text = i[2].decode()
+    etree.SubElement(main, 'article').text = i[2]
     etree.SubElement(main, 'date').text = i[3]
     tagg = ''
     for j in i[4]:
-        tagg += j.decode()
+        tagg += j
     etree.SubElement(main,'tagged').text = tagg
+
 xml = etree.tostring(root2, pretty_print=True)
-f = open('Shabalina_4_html_xml.xml', 'w')
-f.write(xml.decode())
+f = open('Shabalina_4_html_xml.xml', 'wb')
+f.write(xml)
 f.close()
+
