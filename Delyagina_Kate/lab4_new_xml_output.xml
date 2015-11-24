@@ -1,0 +1,102 @@
+<popular_singers>
+  <singer>
+    <name>Arctic Monkeys</name>
+    <link>http://www.last.fm/ru/music/Arctic+Monkeys</link>
+    <tag>/ru/tag/pop</tag>
+  </singer>
+  <singer>
+    <name>Avicii</name>
+    <link>http://www.last.fm/ru/music/Avicii</link>
+    <tag>/ru/tag/pop</tag>
+  </singer>
+  <singer>
+    <name>Calvin Harris</name>
+    <link>http://www.last.fm/ru/music/Calvin+Harris</link>
+    <tag>/ru/tag/electronic</tag>
+  </singer>
+  <singer>
+    <name>Coldplay</name>
+    <link>http://www.last.fm/ru/music/Coldplay</link>
+    <tag>/ru/tag/electronic</tag>
+  </singer>
+  <singer>
+    <name>Daft Punk</name>
+    <link>http://www.last.fm/ru/music/Daft+Punk</link>
+    <tag>/ru/tag/alternative+rock</tag>
+  </singer>
+  <singer>
+    <name>David Guetta</name>
+    <link>http://www.last.fm/ru/music/David+Guetta</link>
+    <tag>/ru/tag/alternative+rock</tag>
+  </singer>
+  <singer>
+    <name>Ed Sheeran</name>
+    <link>http://www.last.fm/ru/music/Ed+Sheeran</link>
+    <tag>/ru/tag/rock</tag>
+  </singer>
+  <singer>
+    <name>Florence + the Machine</name>
+    <link>http://www.last.fm/ru/music/Florence+%252B+the+Machine</link>
+    <tag>/ru/tag/rock</tag>
+  </singer>
+  <singer>
+    <name>Imagine Dragons</name>
+    <link>http://www.last.fm/ru/music/Imagine+Dragons</link>
+    <tag>/ru/tag/indie+rock</tag>
+  </singer>
+  <singer>
+    <name>Kanye West</name>
+    <link>http://www.last.fm/ru/music/Kanye+West</link>
+    <tag>/ru/tag/indie+rock</tag>
+  </singer>
+  <singer>
+    <name>Lana Del Rey</name>
+    <link>http://www.last.fm/ru/music/Lana+Del+Rey</link>
+    <tag>/ru/tag/acoustic</tag>
+  </singer>
+  <singer>
+    <name>Major Lazer</name>
+    <link>http://www.last.fm/ru/music/Major+Lazer</link>
+    <tag>/ru/tag/acoustic</tag>
+  </singer>
+  <singer>
+    <name>Maroon 5</name>
+    <link>http://www.last.fm/ru/music/Maroon+5</link>
+    <tag>/ru/tag/pop</tag>
+  </singer>
+  <singer>
+    <name>Muse</name>
+    <link>http://www.last.fm/ru/music/Muse</link>
+    <tag>/ru/tag/pop</tag>
+  </singer>
+  <singer>
+    <name>Queen</name>
+    <link>http://www.last.fm/ru/music/Queen</link>
+    <tag>/ru/tag/indie</tag>
+  </singer>
+  <singer>
+    <name>Radiohead</name>
+    <link>http://www.last.fm/ru/music/Radiohead</link>
+    <tag>/ru/tag/indie</tag>
+  </singer>
+  <singer>
+    <name>Red Hot Chili Peppers</name>
+    <link>http://www.last.fm/ru/music/Red+Hot+Chili+Peppers</link>
+    <tag>/ru/tag/alternative</tag>
+  </singer>
+  <singer>
+    <name>Rihanna</name>
+    <link>http://www.last.fm/ru/music/Rihanna</link>
+    <tag>/ru/tag/alternative</tag>
+  </singer>
+  <singer>
+    <name>Sia</name>
+    <link>http://www.last.fm/ru/music/Sia</link>
+    <tag>/ru/tag/indie</tag>
+  </singer>
+  <singer>
+    <name>The Weeknd</name>
+    <link>http://www.last.fm/ru/music/The+Weeknd</link>
+    <tag>/ru/tag/indie</tag>
+  </singer>
+</popular_singers>
