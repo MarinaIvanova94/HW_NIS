@@ -10,7 +10,7 @@ for element in root.iter('actor'):
     etree.SubElement(element,'last_name').text=mylist[1]
     #element.set('first_name',mylist[0])
     #element.set('last_name',mylist[1])
-    
+
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
 f1 = open('skuchilina_svetlana1.xml', 'w')
 f1.write(output)
