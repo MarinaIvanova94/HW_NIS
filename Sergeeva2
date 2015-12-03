@@ -1,0 +1,18 @@
+__author__ = 'admin'
+from lxml import etree
+tree = etree.parse('Ivanova1.xml')
+spisok = tree.getroot()
+
+for item in spisok.iter('title'):
+  item.set("яблочная","в мультиварке")
+  opinion = etree.SubElement(spisok,'opinions')
+    for item1 in spisok.iter('opinions'):
+      op1 = item1.text = 'Очень вкусная шарлоточка!!!!'
+      op2 = item1.text = 'Всей семье понравилось! облизали пальчики!!!1'
+for item2 in spisok.iter('composition'):
+  price = item2.text = '540 рублей'
+
+recipe = etree.tostring(spisok,pretty_print=True,encoding = 'UTF-8')
+func = open('Ivanova1.xml','w')
+func.write(recipe)
+func.close()
