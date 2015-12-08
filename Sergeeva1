@@ -1,0 +1,42 @@
+<breakfast_menu> 
+<food> 
+<name>Чизбургер</name> 
+<price>$5.95</price> 
+<description> 
+два рубленых бифштекса из натуральной цельной говядины с двумя кусочками сыра 
+</description> 
+<calories>650</calories> 
+</food> 
+<food> 
+<name>Биг тейсти</name> 
+<price>$7.95</price> 
+<description> 
+сандвич с большим, рубленым бифштексом 
+</description> 
+<calories>900</calories> 
+</food> 
+<food> 
+<name>Чикен макнаггетс</name> 
+<price>$8.95</price> 
+<description> 
+обжаренные в растительном фритюре кусочки куриного мясаи 
+</description> 
+<calories>900</calories> 
+</food> 
+<food> 
+<name>Фиш ролл</name> 
+<price>$4.50</price> 
+<description> 
+обжаренная рыбная котлета в панировке, свежий салат, ломтики помидора и огурца 
+</description> 
+<calories>600</calories> 
+</food> 
+<food> 
+<name>Куриные крылышки</name> 
+<price>$6.95</price> 
+<description> 
+хрустящие куриные крылышки. Еще аппетитнее с соусом Барбекю 
+</description> 
+<calories>950</calories> 
+</food> 
+</breakfast_menu>
