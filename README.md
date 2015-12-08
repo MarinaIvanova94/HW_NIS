@@ -1,49 +1,53 @@
 # Оценки за практические работы
 
-Name;	XML 23.09;	EditXML 7.10;	ParseHTML 3.11; Замечание
+Name;	XML 23.09;	EditXML 7.10;	ParseHTML 3.11;	MakeXML 1.12;	Замечание
 
-Adzhigitova_Yulia;	9;	8;	9; ветку "patch-1" объеденить с основной. Редактировать исходный xml ../Skuchilina_Svetlana/skuchilina_svetlana.xml
+Adzhigitova_Yulia;	9;	8;	9;	9;
 
-Bardina;	9;	0;	0;
+Bardina;	9;	0;	0;	0; Создать свою папку и перенести туда файлы из корневой папки
 
-Bazanova_Lyubov;	9;	8;	2;	Редактировать исходный xml. 
+Bazanova_Lyubov;	9;	8;	2+6;	9;
 
-Blinova;	9;	0;	0;
+Blinova;	9;	0;	0;	0; Создать свою папку и перенести туда файлы из корневой папки
 
-Chernyshev_Alexander 9; 9; 4;
+Chernyshev_Alexander 9; 9; 4+4; 6;
 
-Delyagina_Kate;	0+6; 0+6; 0;
+Delyagina_Kate;	0+6; 0+6; 0+8;	9;
 
-Dmitrieva; 	9;	9;	4;
+Dmitrieva; 	9;	9;	4+4;	9;
+
+Ivanova;	4;	4; 0;	0; Сделать файлы с расширением. Создать свою папку и перенести туда файлы из корневой папки
 
 Ivanychev_Igor 	0+6; 0+6; 0;
 
-Kozlova_Anastasia	9;	9;	9;
+Kozlova_Anastasia	9;	9;	9;	10;
 
-Morina;	9;	0;	0;
+Morina;	9;	0;	0; 0; Создать свою папку и перенести туда файлы из корневой папки
 
-Porotikova_Yana;	9;	9;	0;	Удалить свои файлы из корневой папки
+Porotikova_Yana;	9;	9;	0+7;	9;	
 
 Pukhova;	7;	0+6;	0;
 
-Roshchina;	9;	9;	9;
+Roshchina;	9;	9;	9;	9;
 
-Sadov Mikhail;	9;	9;	9; 
+Sadov Mikhail;	9;	9;	9;	9;
 
-Shabalina_Tanya;	9;	9;	9;
+Sergeeva;	4;	4; 0;	0; Сделать файлы с расширением. Создать свою папку и перенести туда файлы из корневой папки
 
-Shantyreva;	9;	0;	0; Удалить свои файлы из корневой папки
+Shabalina_Tanya;	9;	9;	9;	9;
 
-Skuchilina_Svetlana;	9;	8;	9; Редактировать исходный xml
+Shantyreva;	9;	0;	0; 0; Создать свою папку и перенести туда файлы из корневой папки
 
-Sushcheva;	9;	0;	0;
+Skuchilina_Svetlana;	9;	8;	9;	9;
 
-Tsyplyaeva_Alisa;	9;	9;	0;
+Sushcheva;	9;	0;	0; 0; Удалить файл из корневой папки
 
-Usenko;	9;	0;	0;
+Tsyplyaeva_Alisa;	9;	9;	0+8;	9
 
-Vanina_Natalia;	9;	6+2;	9;	Удалить свои файлы из корневой папки
+Usenko;	9;	0;	0; 0; Создать свою папку и перенести туда файлы из корневой папки
 
-Zaplatkina_Irina;	9;	9;	4;
+Vanina_Natalia;	9;	6+2;	9;	0;
 
-Zoteeva;	9;	2;	0;	Удалить свои файлы из корневой папки
+Zaplatkina_Irina;	9;	9;	4+4;	9;
+
+Zoteeva;	9;	2+4;	0+4;	0;
