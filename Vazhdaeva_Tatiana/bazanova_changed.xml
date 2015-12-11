@@ -1,0 +1,83 @@
+<candidateList>
+<candidate>
+<name>Сенченко Пётр Семёнович</name>
+<age>45</age>
+<education university="НГТУ" faculty="ИРИТ">Образование<mark></mark></education>
+<skills keySkills="Perl, Java, C++, 1С" certificates="1С 8">Навыки</skills>
+<workingExperience>20</workingExperience>
+<maritalStatus>женат</maritalStatus>
+</candidate>
+<candidate>
+<name>Малышева Ольга Юрьевна</name>
+<age>34</age>
+<education university="НГТУ" faculty="ИРИТ">Образование<mark></mark></education>
+<skills keySkills="C, C++, C#, Delphi, Object Pascal, MySQL" certificates="MySQL Advanced">Навыки</skills>
+<workingExperience>14</workingExperience>
+<maritalStatus>замужем</maritalStatus>
+</candidate>
+<candidate>
+<name>Фирсов Леонид Константинович</name>
+<age>30</age>
+<education university="ННГУ" faculty="Вычислительной математики и кибернетики">Образование<mark></mark></education>
+<skills keySkills="PHP 5.0, JavaScript, HTML 5, CSS 2-3" certificates="Zend Framework">Навыки</skills>
+<workingExperience>6</workingExperience>
+<maritalStatus>женат</maritalStatus>
+</candidate>
+<candidate>
+<name>Цой Марина Николаевна</name>
+<age>29</age>
+<education university="ННГУ" faculty="Институт информационных технологий, математики и механики">Образование<mark></mark></education>
+<skills keySkills="Java EE, JavaScript, HTML 5, Python, 1С" certificates="1С 7.7">Навыки</skills>
+<workingExperience>6</workingExperience>
+<maritalStatus>замужем</maritalStatus>
+</candidate>
+<candidate>
+<name>Клеменсов Виктор Станиславович</name>
+<age>32</age>
+<education university="ННГУ" faculty="Институт информационных технологий, математики и механики">Образование<mark></mark></education>
+<skills keySkills="C#, C++, Java, Perl" certificates="Java Advanced">Навыки</skills>
+<workingExperience>7</workingExperience>
+<maritalStatus>женат</maritalStatus>
+</candidate>
+<candidate>
+<name>Фролов Алексей Дмитриевич</name>
+<age>32</age>
+<education university="НГТУ" faculty="ИРИТ">Образование<mark></mark></education>
+<skills keySkills="C#, C++, Java, JavaScript, PHP" certificates="HTML+">Навыки</skills>
+<workingExperience>8</workingExperience>
+<maritalStatus>женат</maritalStatus>
+</candidate>
+<candidate>
+<name>Аляркинский Александр Игоревич</name>
+<age>29</age>
+<education university="ННГУ" faculty="Институт информационных технологий, математики и механики">Образование<mark></mark></education>
+<skills keySkills="PHP, Python, MySQL, PostgreSQL" certificates="REST API Profi">Навыки</skills>
+<workingExperience>6</workingExperience>
+<maritalStatus>женат</maritalStatus>
+</candidate>
+<candidate>
+<name>Станюк Маргарита Николаевна</name>
+<age>27</age>
+<education university="НГТУ" faculty="ИНЭЛ">Образование<mark></mark></education>
+<skills keySkills="PHP, Python, MySQL, Android API, Java" certificates="AndroidProfi">Навыки</skills>
+<workingExperience>3</workingExperience>
+<maritalStatus>замужем</maritalStatus>
+</candidate>
+<candidate>
+<name>Анозов Константин Александрович</name>
+<age>35</age>
+<education university="ВГУВТ" faculty="Кораблестроения, гидротехники и защиты окружающей среды ">Образование<mark></mark></education>
+<skills keySkills="C#, C++, Android API, Java, Assemler, HTML" certificates="HTML+">Навыки</skills>
+<workingExperience>9</workingExperience>
+<maritalStatus>женат</maritalStatus>
+</candidate>
+<candidate>
+<name>Коробова Елизавета Владимировна</name>
+<age>34</age>
+<education university="НГТУ" faculty="ИРИТ">Образование<mark></mark></education>
+<skills keySkills="Oracle, SQL, SQLite Browser, VBA, Python, C++, 1С" certificates="Oracle DB Proff">Навыки</skills>
+<workingExperience>9</workingExperience>
+<maritalStatus>замужем</maritalStatus>
+</candidate>
+
+</candidateList>
