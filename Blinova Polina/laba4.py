@@ -7,7 +7,6 @@ url_list=[]
 title_list=[]
 country_list=[]
 time_list = []
-actor_list = []
 for i in range(1,137):
     root = html.parse('http://gidonline.club/genre/melodrama/page/{0}/'.format(i)).getroot()
     tag.extend(root.find_class('mainlink'))
