@@ -44,7 +44,7 @@ for i in range(0, len(url_list)):
     SubElement(melodrama, 'country').text = country_list[i]
     time = SubElement(melodrama, 'time')
     time.text = time_list[i]
-    min = SubElement(time, 'minutes', number = int(time_list[i].split()[0]) * 60+ int(time_list[i].split()[2]))
+    min = SubElement(time, 'minutes', number = str(int(time_list[i].split()[0]) * 60 + int(time_list[i].split()[2])))
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
 f1 = open(r'C:\Users\евросеть\Documents\GitHub\HW_NIS\Blinova Polina\laba4.xml', 'wb')
 f1.write(output)
