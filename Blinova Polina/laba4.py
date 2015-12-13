@@ -21,9 +21,6 @@ for i in tag:
             title_list.append(i.text_content().split('\r')[0])
     except IndexError:
         y = i.find_class('mqx').pop().text_content()
-for i in range(len(url_list)):
-    print "Title: ", title_list[i]
-    print "URL: ", url_list[i], '\n'
 
 for ind, url in enumerate(url_list):
     page1 = html.parse(url)
