@@ -1,0 +1,102 @@
+<list name="10 лучших фильмов">
+	<film number="1">
+	<title>
+		Побег из Шоушенка
+	</title>
+	<feature>
+		<director>Фрэнк Дарабонт<first_name>Фрэнк</first_name><last_name>Д а р а б о н т</last_name></director>
+		<year>1994</year>
+		<genres>детектив, драма<genre name="детектив"/><genre name="драма"/></genres>
+	</feature>
+	</film>
+	<film number="2">
+	<title>
+      Крестный отец
+	</title>
+	<feature>
+		<director>Фрэнсис Форд Коппола<first_name>Фрэнсис Форд</first_name><last_name>К о п п о л а</last_name></director>
+		<year>1972</year>
+		<genres>детектив, драма<genre name="детектив"/><genre name="драма"/></genres>
+	</feature>
+	</film>
+	<film number="3">
+	<title>
+		Крестный отец 2
+	</title>
+	<feature>
+		<director>Фрэнсис Форд Коппола<first_name>Фрэнсис Форд</first_name><last_name>К о п п о л а</last_name></director>
+		<year>1974</year>
+		<genres>детектив, драма<genre name="детектив"/><genre name="драма"/></genres>
+	</feature>
+	</film>
+	<film number="4">
+	<title>
+		Темный рыцарь 
+	</title>
+	<feature>
+		<director>Кристофер Нолан<first_name>Кристофер</first_name><last_name>Н о л а н</last_name></director>
+		<year>2008</year>
+		<genres>триллер, драма<genre name="триллер"/><genre name="драма"/></genres>
+	</feature>
+	</film>
+	<film number="5">
+	<title>
+		12 разгневанных мужчин
+	</title>
+	<feature>
+		<director>Сидни Люмет<first_name>Сидни</first_name><last_name>Л ю м е т</last_name></director>
+		<year>1957</year>
+		<genres>драма, детектив<genre name="драма"/><genre name="детектив"/></genres>
+	</feature>
+	</film>
+	<film number="6">
+	<title>
+		Список Шиндлера
+	</title>
+	<feature>
+		<director>Стивен Спилберг<first_name>Стивен</first_name><last_name>С п и л б е р г</last_name></director>
+		<year>1993</year>
+		<genres>драма, детектив<genre name="драма"/><genre name="детектив"/></genres>
+	</feature>
+	</film>
+	<film number="7">
+	<title>
+		Криминальное чтиво
+	</title>
+	<feature>
+		<director>Квентин Тарантино<first_name>Квентин</first_name><last_name>Т а р а н т и н о</last_name></director>
+		<year>1994</year>
+		<genres>детектив, драма<genre name="детектив"/><genre name="драма"/></genres>
+	</feature>
+	</film>
+	<film number="8">
+	<title>
+		Хороший, плохой, злой
+	</title>
+	<feature>
+		<director>Серджо Леоне<first_name>Серджо</first_name><last_name>Л е о н е</last_name></director>
+		<year>1996</year>
+		<genres>приключение, вестерн<genre name="приключение"/><genre name="вестерн"/></genres>
+	</feature>
+	</film>
+	<film number="9">
+	<title>
+		Властелин колец: Возращение короля
+	</title>
+	<feature>
+		<director>Питер Джексон<first_name>Питер</first_name><last_name>Д ж е к с о н</last_name></director>
+		<year>2003</year>
+		<genres>фэнтези, приключение, боевик<genre name="фэнтези"/><genre name="приключение"/><genre name="боевик"/></genres>
+	</feature>
+	</film>
+	<film number="10">
+	<title>
+		Бойцовский клуб
+	</title>
+	<feature>
+		<director>Дэвид Финчер<first_name>Дэвид</first_name><last_name>Ф и н ч е р</last_name></director>
+		<year>1999</year>
+		<genres>драма, триллер, мистика<genre name="драма"/><genre name="триллер"/><genre name="мистика"/></genres>
+	</feature>
+	</film>
+</list>
