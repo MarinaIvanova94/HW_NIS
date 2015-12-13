@@ -44,10 +44,14 @@ for i in range(0, len(url_list)):
     time = SubElement(comedy, 'time')
     time.text = time_list[i]
     t = time_list[i].split()
-    if len(t) == 4:
-        min = SubElement(time, 'minutes', number = str(int(t[0]) * 60+ int(t[2])))
-    else:
-        min = SubElement(time, 'minutes', number = t[0])
+    try:
+        if len(t) == 4:
+            min = SubElement(time, 'minutes', number = str(int(t[0]) * 60+ int(t[2])))
+        else:
+            min = SubElement(time, 'minutes', number = t[0])
+    except IndexError:
+        #не указано время на сайте
+        print title_list[i], url_list[i], time_list[i]
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
 f1 = open(r'E:\HW_NIS\Bardina Alyona\4 laba (site_xml).xml', 'wb')
 f1.write(output)
