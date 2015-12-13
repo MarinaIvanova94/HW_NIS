@@ -43,7 +43,11 @@ for i in range(0, len(url_list)):
     SubElement(comedy, 'country').text = country_list[i]
     time = SubElement(comedy, 'time')
     time.text = time_list[i]
-    min = SubElement(time, 'minutes', number = str(int(time_list[i].split()[0]) * 60+ int(time_list[i].split()[2])))
+    t = time_list[i].split()
+    if len(t) == 4:
+        min = SubElement(time, 'minutes', number = str(int(t[0]) * 60+ int(t[2])))
+    else:
+        min = SubElement(time, 'minutes', number = t[0])
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
 f1 = open(r'E:\HW_NIS\Bardina Alyona\4 laba (site_xml).xml', 'wb')
 f1.write(output)
