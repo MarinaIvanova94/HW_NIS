@@ -53,7 +53,7 @@ for i in range(0, len(url_list)):
         #не указано время на сайте
         print title_list[i], url_list[i], time_list[i]
 output = etree.tostring(root, pretty_print=True, encoding='UTF-8')
-f1 = open(r'E:\HW_NIS\Bardina Alyona\4 laba (site_xml).xml', 'wb')
+f1 = open(r'D:\HW_NIS\Bardina Alyona\4 laba (site_xml).xml', 'wb')
 f1.write(output)
 print(output)
 f1.close()
