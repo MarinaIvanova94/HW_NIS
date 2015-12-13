@@ -2,12 +2,11 @@
 import lxml.html as html
 from lxml.etree import Element, SubElement, ElementTree
 from lxml import etree
-tag=[]
-url_list=[]
-title_list=[]
-country_list=[]
+tag = []
+url_list = []
+title_list = []
+country_list = []
 time_list = []
-actor_list = []
 for i in range(1,225):
     root = html.parse('http://gidonline.club/genre/komediya/page/{0}/'.format(i)).getroot()
     tag.extend(root.find_class('mainlink'))
@@ -30,11 +29,11 @@ for ind, url in enumerate(url_list):
     time_list.append(tag1[4].strip()[len(u'время'):])
 
 import pickle
-f=open('output.pickle', 'wb')
+f = open('output.pickle', 'wb')
 pickle.dump('asd', f)
 f.close()
-f=open('output.pickle', 'rb')
-top_words=pickle.load(f)
+f = open('output.pickle', 'rb')
+top_words = pickle.load(f)
 f.close()
 
 root = Element('list_of_comedies')
