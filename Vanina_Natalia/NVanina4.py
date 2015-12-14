@@ -33,20 +33,20 @@ for url in url_list:
     page1 = html.parse(url)
     root1 = page1.getroot()
 
-#термин:
+#термин
     tag1 = root1.find_class('m-title').pop()
     a = tag1.text_content().strip()
     tm.append(a)
     term.append(a)
 
-#определение:
+#определение
     tag2 = root1.find_class('m-block').pop()
     a1 = tag2.text_content().strip()
     tm.append(a1)
     determination.append(a1)
 
 
-#из класса 'abook book' получим всь список книг по теме :
+#из класса 'abook book' получим весь список книг по теме 
     tag4 = root1.find_class('abook book')
     for i in tag4:
         book = i.getchildren()[0]
