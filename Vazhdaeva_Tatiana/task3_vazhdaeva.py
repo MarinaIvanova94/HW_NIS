@@ -9,7 +9,7 @@
 
 import lxml.html as html
 other_words = ["egypt_a321_not_terror_attack", "venediktov_ryabtseva_apology", "latvia_russia_border", "oil_price_37",
-               "ruble_dollar_rate_70",]
+               "ruble_dollar_rate_70"]
 page = html.parse("http://www.bbc.com/russian/topics/russia").getroot()
 
 
