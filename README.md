@@ -57,7 +57,7 @@ Bazanova_Lyubov;	9;	8;	2+6;	9;	6;	7;
 
 Blinova;	9;	0+5;	0+4;	0+4; 6; 4;
 
-Chernyshev_Alexander 9; 9; 4+4; 6;	9;	6;
+Chernyshev_Alexander 9; 9; 4+4; 6;	9;	6; объединить ветку master3 с master
 
 Delyagina_Kate;	0+6; 0+6; 0+8;	9; 0; 6;
 
@@ -79,7 +79,7 @@ Porotikova_Yana;	9;	9;	0+7;	9;	8; 7;
 
 Pukhova;	7;	0+6;	0+6;	0+6;	7;	6;
 
-Roshchina;	9;	9;	9;	9; 9; 9;
+Roshchina;	9;	9;	9;	9;	9;	9;	-;	9
 
 Sadov Mikhail;	9;	9;	9;	9; 9; 9;
 
