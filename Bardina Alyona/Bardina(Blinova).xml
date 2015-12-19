@@ -1,0 +1,112 @@
+<list name="Лучшие книги">
+   <book number="1">
+   <title>
+      Божественная комедия
+   </title>
+   <feature>
+      <author>Данте Алигьери<first_name name="Данте"/><last_name name="А л и г ь е р и"/></author>
+      <year>1265-1321</year>
+      <country>Италия</country>
+      <language>Итальянский</language>
+   </feature>
+   </book>
+   <book number="2">
+   <title>
+      Сказки
+   </title>
+   <feature>
+      <author>Ханс Кристиан Андерсен<first_name name="Ханс Кристиан"/><last_name name="А н д е р с е н"/></author>
+      <year>1835—1837</year>
+      <country>Дания</country>
+      <language>Датский</language>
+   </feature>
+   </book>
+  <book number="3">
+   <title>
+      И пришло разрушение
+   </title>
+   <feature>
+      <author>Чинуа Ачебе<first_name name="Чинуа"/><last_name name="А ч е б е"/></author>
+      <year>1958</year>
+      <country>Нигерия</country>
+      <language>Английский</language>
+   </feature>
+   </book>
+   <book number="4">
+   <title>
+      Отец Горио
+   </title>
+   <feature>
+      <author>Оноре де Бальзак<first_name name="Оноре де"/><last_name name="Б а л ь з а к"/></author>
+      <year>1835</year>
+      <country>Франция</country>
+      <language>Французский</language>
+   </feature>
+   </book>
+   <book number="5">
+   <title>
+      Декамерон
+   </title>
+   <feature>
+      <author>Джованни Боккаччо<first_name name="Джованни"/><last_name name="Б о к к а ч ч о"/></author>
+      <year>1349—1353</year>
+      <country>Италия</country>
+      <language>Итальянский</language>
+   </feature>
+   </book>
+   <book number="6">
+   <title>
+      Вымыслы
+   </title>
+   <feature>
+      <author>Хорхе Луис Борхес<first_name name="Хорхе Луис"/><last_name name="Б о р х е с"/></author>
+      <year>1944—1986</year>
+      <country>Аргентина</country>
+      <language>Испанский</language>
+   </feature>
+   </book>
+   <book number="7">
+   <title>
+      Грозовой перевал
+   </title>
+   <feature>
+      <author>Эмили Бронте<first_name name="Эмили"/><last_name name="Б р о н т е"/></author>
+      <year>1847</year>
+      <country>Великобритания</country>
+      <language>Английский</language>
+   </feature>
+   </book>
+   <book number="8">
+   <title>
+      На маяк
+   </title>
+   <feature>
+      <author>Вирджиния Вулф<first_name name="Вирджиния"/><last_name name="В у л ф"/></author>
+      <year>1927</year>
+      <country>Великобритания</country>
+      <language>Английский</language>
+   </feature>
+   </book>
+   <book number="9">
+   <title>
+      Голод
+   </title>
+   <feature>
+      <author>Кнут Гамсун<first_name name="Кнут"/><last_name name="Г а м с у н"/></author>
+      <year>1890</year>
+      <country>Норвегия</country>
+      <language>Норвежский</language>
+   </feature>
+   </book>
+   <book number="10">
+   <title>
+      Сто лет одиночества
+   </title>
+   <feature>
+      <author>Габриэль Гарсиа Маркес<first_name name="Габриэль Гарсиа"/><last_name name="М а р к е с"/></author>
+      <year>1967</year>
+      <country>Колумбия</country>
+      <language>Испанский</language>
+   </feature>
+   </book>
+</list>

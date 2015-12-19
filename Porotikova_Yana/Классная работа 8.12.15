@@ -1,0 +1,18 @@
+from sklearn.datasets import fetch_20newsgroups
+from sklearn.feature_extraction.text import TfidVectorizer
+from match import fabs
+
+i = 2
+j = 1
+
+daraset = fetch_20newsgroups (categories=['alt.atheism', 'talk.religion.music', 'sci.space'])
+vect = TfidVectorizer()
+X = vect.fit_transfor(dataset.data).toarray()
+
+temp = []
+for k in range (X.shape[0]):
+    temp.append(fabs(X[k] [i] - X [k] [j]))
+result = 0
+for x in temp:
+    result += x
+print (result)
