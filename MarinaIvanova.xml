@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe>
+<recipe name="шарлотка" preptime="20min" cooktime="40">
+	<title>
+		Шарлотка традиционая
+	</title>
+	<composition>
+		<ingredient amount="1" unit="стакан">Сахар</ingredient>
+		<ingredient amount="4" unit="штука">Яйцо</ingredient>
+		<ingredient amount="1" unit="стакан">Мука</ingredient>
+		<ingredient amount="1" unit="кг">Яблоко</ingredient>
+		<ingredient amount="1" unit="щепотка">Соль</ingredient>
+		<ingredient amount="1/2" unit="чайная ложка">Сода</ingredient>
+	</composition>
+	<instructions>
+		<step>
+		Белки взбить с половиной стакана сахара.
+		</step>
+		<step>
+		Желтки взбить с оставшимся сахаром.
+		</step>
+		<step>
+		Соединить все вместе и постепенно добавить муку.
+		</step>
+		<step>
+		Добавить соль и соду.
+		</step>
+		<step>
+		Добавить нарезанные кубиками яблок.
+		</step>
+		<step>
+		Форму для выпекания смазать маслом и посыпать манной крупой.
+		</step>
+		<step>
+		Выложить массу в форму и поставить в духовку, разогретую до 180 градусов.
+		</step>
+		<step>
+		Выпекать 30-40 минут.
+		</step>
+	</instructions>
+</recipe>
